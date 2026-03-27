@@ -1,6 +1,3 @@
 [
-  ["textures/pajamas-costume.png"],
-  ["textures/Animal Costume Racoon.png"],
-  ["textures/Akiba Idol Costume.png"],
-  ["textures/Goddess Costume Pink.png"]
+  ["textures/default-costume.png"]
 ]
