@@ -1,5 +1,0 @@
-name = "my-live2d-models"
-compatibility_date = "2024-01-01"
-
-[assets]
-directory = "model"
