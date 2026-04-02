@@ -1,4 +1,4 @@
 {
-  "models": ["Pio", "tia"],
-  "messages": ["Pio 酱", "Tia 酱"]
+  "models": ["Pio", "tia","Kar98k-normal"],
+  "messages": ["Pio 酱", "Tia 酱", "Kar98k酱"]
 }
