@@ -2,8 +2,8 @@
 	"version":"Sample 1.0.0",
 	"model":"model.moc",
 	"textures":[
-		"model.1024/texture_00.png",
-		"model.1024/texture_01.png"
+		"textures/texture_00.png",
+		"textures/texture_01.png"
 	],
 	"motions":{
 		"":[
@@ -24,9 +24,9 @@
 			{"file":"motions/daiji_idle_01.mtn"}
 		]
 	},
-		"hit_areas":[
-			{"name":"head","id":"D_REF.HEAD"},
-			{"name":"leg","id":"D_REF.LEG"},
-			{"name":"body","id":"D_REF.BODY"}
-		]
+	"hit_areas":[
+		{"name":"head","id":"D_REF.HEAD"},
+		{"name":"leg","id":"D_REF.LEG"},
+		{"name":"body","id":"D_REF.BODY"}
+	]
 }
